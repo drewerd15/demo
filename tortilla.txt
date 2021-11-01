@@ -1,4 +1,3 @@
 something here!
-Something else here!
-
 //add function 3 here
+This line will conflict.
