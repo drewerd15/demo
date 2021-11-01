@@ -1,1 +1,2 @@
 something here!
+This line will conflict.
